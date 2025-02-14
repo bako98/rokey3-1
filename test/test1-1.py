@@ -8,3 +8,6 @@ class Man:
         print(self.name,self.power)
 
 Man("Bob",90).info()
+
+print("Branch1")
+
