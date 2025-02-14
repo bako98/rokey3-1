@@ -10,4 +10,5 @@ class Man:
 Man("Bob",90).info()
 
 print("Branch1")
-
+print("Branch1")
+print("Branch1")
